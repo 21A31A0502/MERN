@@ -1,0 +1,42 @@
+.app {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+select {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.transactions-table {
+    margin-bottom: 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+.pagination {
+    margin-top: 10px;
+}
+
+.pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.statistics, .bar-chart, .pie-chart {
+    margin-bottom: 40px;
+}
